@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff;
+    background-color: #000000;
     color: #000080;
 }
 
@@ -19,6 +19,8 @@ header h1 {
 
 main {
     min-height: 70vh;
+    text-align: center;
+    color: yellow;
 }
 
 footer {

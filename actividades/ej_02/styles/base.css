@@ -18,7 +18,8 @@ header h1 {
 }
 
 main {
-    min-height: 50vh;
+    min-height: 60vh;
+    text-align: center;
 }
 
 footer {
